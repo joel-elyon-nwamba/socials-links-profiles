@@ -34,7 +34,6 @@ main {
     gap: 20px;
     padding: 16px;
     align-items: center;
-    background-color: darkslategray;
 }
 
 .social-btn {
@@ -50,6 +49,11 @@ main {
     font-weight: bold;
     transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
 }
+
+button {
+    width: 15rem;
+}
+
 
 
 
